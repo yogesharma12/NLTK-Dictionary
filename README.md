@@ -1,2 +1,2 @@
 # NLTK-Dictionary
-##ntltk dictionary with popup window
+## nltk dictionary with popup window
